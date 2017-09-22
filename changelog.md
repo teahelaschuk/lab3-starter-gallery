@@ -55,3 +55,27 @@ Release Date: Sept 21, 2017
     - Welcome.php: updated index() function (TE)
     - Gallery.php: updated index() function (TE)
 
+## *Version 1.2*
+
+## New Components
+
+-   Images.php (AL)
+-   _cell.php (AL)
+
+## Updated Components
+
+-   controllers
+
+    -   updated Gallery.php: index() updated (AL)
+    -   updated Welcome.php: index() updated (AL)
+
+-   models
+    -   added Images.php: : index(), all(), and newest()  functions added (AL)
+    
+
+-   views
+
+    -   updated gallery.php: simplified (AL)
+    -   added welcome.php: simplified (AL)
+
+
